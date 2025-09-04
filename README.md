@@ -24,7 +24,7 @@ The goal of this project is to practice **frontend development fundamentals** su
 📸 Screenshots
 Homepage Layout
   
- 
+ https://github.com/cboi019/HTML-CSS/blob/main/ScreenShot/d4a9efeb-3783-4cb3-9217-3ab4f6021670.png
 
 ---
 
